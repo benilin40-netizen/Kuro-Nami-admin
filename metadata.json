@@ -1,0 +1,6 @@
+{
+  "name": "KURO NAMI ADMIN",
+  "description": "Standalone administration, streaming infrastructure, unified storage pool, and API integration control system for the KURO NAMI anime platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
